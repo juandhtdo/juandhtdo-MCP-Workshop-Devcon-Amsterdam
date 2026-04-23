@@ -1,0 +1,13 @@
+{
+    "servers": {
+      "devcon-workshop": {
+        "type": "http",
+        "url": "http://localhost:3000/mcp"
+      },
+      "devcon-aps":{
+        "type": "http",
+        "url": "http://localhost:3001/mcp"
+      }
+    }
+  }
+  
